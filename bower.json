@@ -4,7 +4,11 @@
   "main": [
     "recorder.js",
     "decoderWorker.js",
+    "decoderWorker.wasm",
+    "decoderWorker.wast",
     "encoderWorker.js",
+    "encoderWorker.wasm",
+    "encoderWorker.wast",
     "waveWorker.js"
   ],
   "license": [

@@ -19,7 +19,11 @@
   "main": "recorder.js",
   "files": [
     "decoderWorker.js",
+    "decoderWorker.wasm",
+    "decoderWorker.wast",
     "encoderWorker.js",
+    "encoderWorker.wasm",
+    "encoderWorker.wast",
     "recorder.js",
     "waveWorker.js"
   ],
